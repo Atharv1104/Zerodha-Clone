@@ -1,0 +1,15 @@
+.logo-img{
+    width:25%;
+}
+.nav-custom{
+    background-color: white;
+    height: 4.5rem;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1030;
+}
+.nav-comp ul li a{
+    margin-left:0.8rem ;
+    font-weight: 550;
+    color: #424242;
+}

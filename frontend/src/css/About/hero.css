@@ -1,0 +1,12 @@
+.custom-style-para{
+    display: flex;
+    justify-content: center;
+    margin: 8rem 8rem ;
+    font-size: 1.1rem;
+    color: #424242;
+}
+.hero-headings{
+    margin-top: 5rem;
+    margin-bottom: 8rem;
+    color: #424242;
+}
