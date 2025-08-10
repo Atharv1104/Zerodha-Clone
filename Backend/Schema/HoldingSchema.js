@@ -1,0 +1,30 @@
+const{Schema}=require("mongoose");
+const HoldingSchema= new Schema ({
+name:{
+    type:String,
+},
+qty:{
+    type:Number,
+    default:0,
+    required:true,
+},
+avg:{
+    type:Number,
+    default:0,
+},
+price:{
+    type:Number,
+    default:0,
+    required:true,
+},
+net:{
+    type:String,
+    default:0,
+},
+day:{
+    type:String,
+    default:0,
+}
+})
+
+module.exports={HoldingSchema};

@@ -1,0 +1,34 @@
+
+.pricing{
+    display:flex;
+    justify-content: space-around  ;
+    align-items: center;
+}
+.price-img{
+    
+    width:40%;
+}
+
+.pt{
+    padding-top: 5rem;
+}
+.pb{
+    padding-bottom: 5rem;
+}
+.pl{
+    padding-left: 5rem;
+}
+.pr{
+    padding-right: 5rem;
+}
+.container{
+    margin:0px 58px;
+}
+.description{
+    margin-left: 10px;
+    width: 40%;
+}
+a{
+    text-decoration: none;
+    font-size: 1.1rem;
+}

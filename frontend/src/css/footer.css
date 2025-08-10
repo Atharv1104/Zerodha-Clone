@@ -1,0 +1,26 @@
+.footer-logo-img{
+    width:50%;
+}
+.custom-whatsapp-img{
+    width:30%;
+}
+.custom-font{
+    font-weight: 500;
+    color: #424242;
+}
+.custom-footer-text{
+    font-size: 0.7rem;
+    color: #9b9b9b;
+}
+.custom-footer-text p a{
+    font-size: 0.7rem;
+    text-decoration: none;
+}
+.custom-footer-font{
+    font-size: 0.8rem;
+    color: #9b9b9b;
+    font-weight: 500;
+}
+.custom-p{
+    padding-bottom: 20px !important;
+}

@@ -1,0 +1,9 @@
+ "dependencies": 
+    "body-parser": "^2.2.0"___________ Middleware for parsing request bodies
+    "cors": "^2.8.5"___________ Middleware for enabling CORS
+    "dotenv": "^17.2.1"___________ For environment variable management
+    "express": "^5.1.0"___________ Web framework for Node.js
+    "mongoose": "^8.17.0"___________ MongoDB object modeling tool
+    "passport": "^0.7.0"___________  Authentication middleware for Node.js
+    "passport-local": "^1.0.0"___________ Local authentication strategy for Passport
+    "passport-local-mongoose": "^8.0.0"___________ Mongoose plugin for local authentication
